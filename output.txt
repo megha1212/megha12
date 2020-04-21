@@ -1,0 +1,26 @@
+1}
+C:\Users\chaitra\Desktop>Asn02P03 3
+
+ Move disk 3 from A to C
+ Move disk 2 from A to D
+ Move disk 1 from A to B
+ Move disk 2 from D to B
+ Move disk 3 from C to B
+
+2}
+C:\Users\chaitra\Desktop>Asn02P03 4
+
+ Move disk 4 from A to C
+ Move disk 3 from A to D
+ Move disk 2 from A to B
+ Move disk 3 from D to B
+ Move disk 4 from C to B
+
+3}
+C:\Users\chaitra\Desktop>Asn02P03 5
+
+ Move disk 5 from A to C
+ Move disk 4 from A to D
+ Move disk 3 from A to B
+ Move disk 4 from D to B
+ Move disk 5 from C to B
